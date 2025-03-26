@@ -16,7 +16,7 @@ Supports mouse and keyboard input, parentheses, decimals, and all basic math ope
 
 ---
 
-## 🔧 How to Run
+##   How to Run
 
 ###  With Python (any OS):
 
